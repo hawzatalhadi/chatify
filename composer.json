@@ -1,5 +1,5 @@
 {
-    "name": "munafio/chatify",
+    "name": "hawzatalhadi/chatify",
     "description": "A package for Laravel PHP Framework to add a complete real-time chat system.",
     "type": "library",
     "keywords": ["laravel", "messenger", "conversations", "chat", "php", "pusher", "realtime", "real-time"],
@@ -10,7 +10,6 @@
             "email": "munafaqeelmahdi@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "pusher/pusher-php-server": "^4.1"
     },
