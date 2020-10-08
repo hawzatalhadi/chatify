@@ -10,10 +10,6 @@
             "email": "munafaqeelmahdi@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "pusher/pusher-php-server": "^4.1"
-    },
     "autoload": {
         "psr-4": {
             "Chatify\\" : "src/"
